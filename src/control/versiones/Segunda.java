@@ -9,5 +9,7 @@ package control.versiones;
  * @author dam
  */
 public class Segunda {
-    
+    public void nada2(){
+        System.out.println("Ayuda");
+    }
 }
