@@ -8,12 +8,6 @@ package control.versiones;
  *
  * @author dam
  */
-public class Segunda {
-    public void nada(){
-        System.out.println("Te estoy modificando");
-    }
-    public void nada2(){
-        System.out.println("Ayuda");
-
-    }
+public class Final {
+    
 }
